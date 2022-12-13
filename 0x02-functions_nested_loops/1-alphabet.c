@@ -2,7 +2,8 @@
 /**
  * File: 1-alphabet.c
  * Auth: Danigy
- * print_alphabet - print the alphabet letters in lowercase from a - z, and ends with a new line
+ * print_alphabet - function that print the alphabet letters in lowercase from a - z, and ends with a new line
+ * Return: no return
 */
 void print_alphabet(void)
 {
