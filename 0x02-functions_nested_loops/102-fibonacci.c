@@ -17,7 +17,7 @@ n2 = n3;
 if (inc == 49)
 printf("\n");
 else
-Printf(", ");
+printf(", ");
 }
 return (0);
 }
