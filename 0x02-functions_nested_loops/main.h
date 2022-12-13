@@ -1,3 +1,5 @@
+#ifndef MAIN_H
+#define MAIN_H
 /**
  *File: main.h
  *Author: Danigy
@@ -18,3 +20,5 @@ int print_sign(int n);
 int _abs(int);
 int add(int n, int m);
 int print_last_digit(int n);
+
+#endif
