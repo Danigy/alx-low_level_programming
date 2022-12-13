@@ -1,9 +1,8 @@
 #include "main.h"
 /**
- * File: 1-alphabet.c
- * Auth: Danigy
- * print_alphabet - function that print the alphabet letters in lowercase from a - z, and ends with a new line
- * Return: no return
+ *print_alphabet - function that print alphabet
+ *it prints in lowercase
+ *Return: no return
 */
 void print_alphabet(void)
 {
