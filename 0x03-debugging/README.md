@@ -1,11 +1,15 @@
 # 0x03. C - Debugging
 <code> <b>C</b> </code> <code>  <b>Debugging</b> </code>
 
-- 🙍‍♂️ By: Carrie Ybay
-- ⚙️ Weight: 1
-- 📅 Project will start Dec 13, 2022 6:00 AM, must end by Dec 16, 2022 6:00 AM
-- ✔️ was released at Dec 14, 2022 12:00 AM
-- ✅ An auto review will be launched at the deadline
+🙍‍♂️ By: Carrie Ybay
+
+⚙️ Weight: 1
+
+📅 Project will start Dec 13, 2022 6:00 AM, must end by Dec 16, 2022 6:00 AM
+
+✔️ was released at Dec 14, 2022 12:00 AM
+
+✅ An auto review will be launched at the deadline
 
 Resources
 ---------
