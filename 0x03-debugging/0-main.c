@@ -1,21 +1,12 @@
-#include <stdio.h>
-/**                                                                                                 
-* main - debugging example                                                                         
-* Return: 0                                                                                        
+#include "main.h"
+/**
+ * main - tests function that prints if integer is positive or negative
+ * Return: 0
 */
 int main(void)
 {
 int i;
-int j;
-int k;
-i = 0;
-j = 1000;
-while (i < j)
-{
-k = j / 98;
-i = i + k;
-printf("%d\n", i);
-j == j - 1;
-}
+i = 98 % 2;
+positive_or_negative(i);
 return (0);
 }
